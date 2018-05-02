@@ -9,4 +9,7 @@ If you would like to donate please use our crowdfund in the wallet or send burst
 Thank you
 
 
+P.S.  Be sure to stay tuned as we push the code here as well as binary releases.
+
+
 
